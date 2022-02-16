@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/02/14 18:45:55.030,=C:\Users\Pablo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/14 18:46:24.893,C:\Users\Pablo\Desktop\Programação\Delphi\ClinicaMedica\unitprincipal.pas=C:\Users\Pablo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/14 18:46:24.893,C:\Users\Pablo\Desktop\Programação\Delphi\ClinicaMedica\unitprincipal.dfm=C:\Users\Pablo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/02/14 18:46:29.721,C:\Users\Pablo\Desktop\Programação\Delphi\ClinicaMedica\Clinica.dproj=C:\Users\Pablo\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/02/14 19:13:08.029,=C:\Users\Pablo\Desktop\Programação\Delphi\ClinicaMedica\Unit2.pas</Transaction>
+    <Transaction>2022/02/14 19:13:28.441,C:\Users\Pablo\Desktop\Programação\Delphi\ClinicaMedica\unitcadPaciente.pas=C:\Users\Pablo\Desktop\Programação\Delphi\ClinicaMedica\Unit2.pas</Transaction>
+    <Transaction>2022/02/14 19:13:28.441,C:\Users\Pablo\Desktop\Programação\Delphi\ClinicaMedica\unitcadPaciente.dfm=C:\Users\Pablo\Desktop\Programação\Delphi\ClinicaMedica\Unit2.dfm</Transaction>
+    <Transaction>2022/02/14 19:13:36.611,=C:\Users\Pablo\Desktop\Programação\Delphi\ClinicaMedica\Unit3.pas</Transaction>
+    <Transaction>2022/02/14 19:13:49.727,C:\Users\Pablo\Desktop\Programação\Delphi\ClinicaMedica\unitcadAgendamentos.pas=C:\Users\Pablo\Desktop\Programação\Delphi\ClinicaMedica\Unit3.pas</Transaction>
+    <Transaction>2022/02/14 19:13:49.727,C:\Users\Pablo\Desktop\Programação\Delphi\ClinicaMedica\unitcadAgendamentos.dfm=C:\Users\Pablo\Desktop\Programação\Delphi\ClinicaMedica\Unit3.dfm</Transaction>
+    <Transaction>2022/02/14 19:30:22.189,=C:\Users\Pablo\Desktop\Programação\Delphi\ClinicaMedica\Unit1.pas</Transaction>
+    <Transaction>2022/02/14 19:36:29.319,C:\Users\Pablo\Desktop\Programação\Delphi\ClinicaMedica\unitDM.pas=C:\Users\Pablo\Desktop\Programação\Delphi\ClinicaMedica\Unit1.pas</Transaction>
+    <Transaction>2022/02/14 19:36:29.319,C:\Users\Pablo\Desktop\Programação\Delphi\ClinicaMedica\unitDM.dfm=C:\Users\Pablo\Desktop\Programação\Delphi\ClinicaMedica\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
